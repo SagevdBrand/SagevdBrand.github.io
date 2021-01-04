@@ -1,7 +1,7 @@
 ---
 description: Homepage
 images:
-- /images/sample.jpg
+- /images/Sofie.jpg
 title: Home
 ---
 
