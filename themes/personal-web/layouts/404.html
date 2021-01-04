@@ -17,7 +17,7 @@
   {{ range first 1 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
       {{ partial "portfolio/item" .}}
-    {{ else if in .Site.Params.mainSections "post" }}
+    {{ else if in .Site.Params.mainSections "CV" }}
       {{ partial "post/item" .}}
     {{ end }}
   {{ end }}
