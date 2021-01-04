@@ -53,7 +53,7 @@ pygmentsCodeFences=true
   linkedin = "https://www.linkedin.com/in/sofie-van-den-brand-977496112/"
 
 [params.contact]
-  email = "s.a.g.e.vandenbrand@uu.nl"
+  email = "sofievandenbrand@live.nl"
   text= "Contact me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
