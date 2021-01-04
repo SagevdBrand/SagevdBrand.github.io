@@ -5,8 +5,8 @@ images:
 title: Home
 ---
 
-Hey there,
+Hey,
 
-I'm Sofie van den Brand, graduate student Methodology and statistics at Utrecht University. 
+I am Sofie van den Brand, graduate student Methodology and statistics at Utrecht University. 
 
 [Get to know me better](/about "Get to know me better")
