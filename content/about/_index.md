@@ -1,7 +1,7 @@
 ---
 description: Hi there! My name is Sofie van den Brand
 images:
-- /images/photo_2020-04-01_13-06-39.png
+- /images/Sofie.jpg
 title: About me 
 ---
 
