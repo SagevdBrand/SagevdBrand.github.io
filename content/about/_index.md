@@ -11,6 +11,7 @@ I believe that one can always improve and learn. Therefore, I always try to deve
                             
 
 Besides methodology and statistics, I am also very passionate about working out, climbing, survival run and hiking. My wishlist for outdoor activities consists of:
+
 1. West Highland Way in Scotland ~ 154 km :mountain:
 2. Sea kayaking in Sweden along the Bohuslän coast :canoe:
 3. Hiking one of the great walks in New Zealand :kiwi:
@@ -18,11 +19,8 @@ Besides methodology and statistics, I am also very passionate about working out,
 Lastly, I also really enjoy:
 
 * coffee :coffee:
-
 * cooking :apple:
-
 * playing games :joystick:
-
 * reading :book:
 
 
