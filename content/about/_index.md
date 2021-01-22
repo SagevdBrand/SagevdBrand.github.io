@@ -14,13 +14,13 @@ Besides methodology and statistics, I am also very passionate about working out,
 
 1. West Highland Way in Scotland ~ 154 km :mountain:
 2. Sea kayaking in Sweden along the Bohuslän coast :canoe:
-3. Hiking one of the great walks in New Zealand :kiwi:
+3. Hiking one of the great walks in New Zealand
 
 Lastly, I also really enjoy:
 
 * coffee :coffee:
 * cooking :apple:
-* playing games :joystick:
+* playing games 
 * reading :book:
 
 
