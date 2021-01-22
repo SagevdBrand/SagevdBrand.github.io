@@ -16,9 +16,13 @@ Besides methodology and statistics, I am also very passionate about working out,
 3. Hiking one of the great walks in New Zealand :kiwi:
 
 Lastly, I also really enjoy:
+
 * coffee :coffee:
+
 * cooking :apple:
+
 * playing games :joystick:
+
 * reading :book:
 
 
