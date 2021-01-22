@@ -10,6 +10,7 @@ work:
 ---
 
 As a student-assistant within the ASReview team, I have gained experience in many areas. The most important are the following:
+
 * Research
 * Data pre-processing
 * Giving workshops to new users
